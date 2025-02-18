@@ -1,0 +1,26 @@
+{
+  "name": "cloud-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibukunoluwashina/cloud-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibukunoluwashina/cloud-database/issues"
+  },
+  "homepage": "https://github.com/ibukunoluwashina/cloud-database#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "joi": "^13.7.0",
+    "mongoose": "^8.10.1"
+  }
+}
